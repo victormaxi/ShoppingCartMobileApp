@@ -1,0 +1,1 @@
+C:\Users\PC3\source\repos\Azure\ProductAppMobile\ProductAppMobile\ProductAppMobile.csproj;x64
